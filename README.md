@@ -13,4 +13,6 @@ Hi 👋! My name is Bishnu Adhikari, and I'm a Web Developer, Video Editor, and 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/yourhandle](https://x.com/bishnuadkri0))
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bishabadkri&theme=dark)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bishabadkri&theme=darkhub)
+#Contributions:
+https://lnkd.in/gnNUGVwr
 
