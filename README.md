@@ -1,8 +1,8 @@
 Hi 👋! My name is Bishnu Adhikari, and I'm a Web Developer, Video Editor, and Content Writer from Nepal.
+
 📫 Email: [yamadeath0@gmail.com] (mailto:yamadeath0@gmail.com)  
 - 🏡 Location: Butwal, Nepal  
-- 👥 Followers: ![GitHub followers](https://img.shields.io/github/followers/bishnabadhikari?style=social)  
-- 🤝 Following: ![GitHub following](https://img.shields.io/github/following/bishnabadhikari?style=social)  
+  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bishabadkri&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bishabadkri&layout=compact&theme=dark)
 ### Tech Stack
