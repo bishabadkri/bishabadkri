@@ -7,9 +7,9 @@ Hi 👋! My name is Bishnu Adhikari, and I'm a Web Developer, Video Editor, and 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ### Connect with me:
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://youtube.com/yourchannel)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](https://instagram.com/yourprofile)
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)]([https://youtube.com/yourchannel](https://www.youtube.com/@yamadeath))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/bishnu-adhikari-8bb6242a5/))
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/yourhandle](https://x.com/bishnuadkri0))
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bishabadkri&theme=dark)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bishabadkri&theme=darkhub)
 
