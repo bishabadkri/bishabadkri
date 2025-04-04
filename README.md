@@ -14,5 +14,5 @@ Hi 👋! My name is Bishnu Adhikari, and I'm a Web Developer, Video Editor, and 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bishabadkri&theme=dark)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bishabadkri&theme=darkhub)
 #Contributions:
-https://lnkd.in/gnNUGVwr
+![Gyaniq] ( https://lnkd.in/gnNUGVwr )
 
