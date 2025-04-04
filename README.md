@@ -20,3 +20,6 @@ Hi 👋! My name is Bishnu Adhikari, and I'm a Web Developer, Video Editor, and 
 [Osquiz 1.0.zip](https://github.com/user-attachments/files/19596668/Osquiz.1.0.zip)
 
 [Ludo-Game-in-Python-master.zip](https://github.com/user-attachments/files/19596671/Ludo-Game-in-Python-master.zip)
+
+### 📈 bishabadkri's Contribution Graph
+![Bishnu's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bishabadkri&theme=react-dark)
